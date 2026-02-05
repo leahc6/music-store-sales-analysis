@@ -52,8 +52,8 @@ All tracks are priced between €0.99 and €1.99, which limits revenue per orde
 ### 📁Repository Structure
 The repository is structured as below:
 - **/dashboards**
-      **dashboard.pdf:** Exported version of the Power BI report (optional, for easier viewing)
-       **dashboard.pbix:** Power BI report file
+     - **dashboard.pdf:** Exported version of the Power BI report (optional, for easier viewing)
+     - **dashboard.pbix:** Power BI report file
 - **/data_clean:** Cleaned CSV files
 - **/data_raw:** Raw CSV files before cleaning
 - **/screenshots:** Project summarised in images
