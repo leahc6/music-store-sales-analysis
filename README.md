@@ -36,16 +36,16 @@ Across the dashboard, filters and time-based sliders enable deeper exploration a
 - **Customer value is consistent across the dataset.** The average customer places seven orders, while spending approximately €39 per order. Customer retention is particularly strong, with 100% of customers making repeat purchases. There are no major outliers in spend or order volume, indicating a stable purchasing behaviour. 
 
 ### 💡Business Recommendations
-**1. Expand the customer base in high-performing regions**
+**1. Expand the customer base in high-performing regions**  
 With only 59 customers in five years, increasing brand awareness is essential for long-term growth. Targeted marketing campaigns in top-performing markets, such as the USA and Canada, would attract new customers and accelerate growth.
 
-**2. Leverage strong customer retention to drive insight and customer growth**
+**2. Leverage strong customer retention to drive insight and customer growth**  
 Repeat purchasing behaviour is excellent, indicating customer satisfaction with the store’s products and services. Conducting a short customer survey would help to understand what drives retention and where improvements could be made. Introducing referral incentives to loyal customers could help to expand the customer base.
 
-**3. Target seasonal opportunities to stabilise revenue**
+**3. Target seasonal opportunities to stabilise revenue**  
 Revenue tends to decrease between September and December. Seasonal campaigns, promotions and limited discounts during this period would help boost sales and smooth out performance across the year.
 
-**4. Diversify product offering to increase average order value**
+**4. Diversify product offering to increase average order value**  
 All tracks are priced between €0.99 and €1.99, which limits revenue per order. Introducing higher value products, such as bundles, exclusive releases, premium editions or subscription packages could increase average order value and strengthen overall revenue.
 
 
