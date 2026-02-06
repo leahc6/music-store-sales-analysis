@@ -61,7 +61,7 @@ All tracks are priced between €0.99 and €1.99, which limits revenue per orde
 The repository is structured as below:
 - **/dashboards**
      - **dashboard.pdf:** Static PDF version of the Power BI report (optional, for easier viewing) [View PDF](dashboards/dashboard.pdf)
-     - **dashboard.pbix:** Interactive Power BI report file [Download PBIX](dashboards/dashboard.pbix)
+     - **dashboard.pbix:** Interactive Power BI report file (Click download icon to open file in Power BI Desktop) [Download PBIX](dashboards/dashboard.pbix)
 - **/data_clean:** Cleaned CSV files
 - **/data_raw:** Raw CSV files before cleaning
 - **/screenshots:** Project summarised in images
