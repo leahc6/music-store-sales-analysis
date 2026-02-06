@@ -24,13 +24,13 @@ The dataset contains five years of transactional data from a digital music store
 ### 📈Dashboard Overview
 The Power BI dashboard consists of three pages: Overview, Music Performance and Customer Insights. Each page focuses on a specific analytical theme and uses interactive visuals to explore trends. 
 The Overview page presents core KPIs and trend analysis to highlight overall business performance. 
-[Overview Dashboard](screenshots/dashboard_overview.png)
+![Overview Dashboard](screenshots/dashboard_overview.png)
 
 The Music Performance page focuses on artists, genres and albums, using revenue-based visuals to identify top contributors.
-[Music Performance Dashboard](screenshots/dashboard_music_performance.png)
+![Music Performance Dashboard](screenshots/dashboard_music_performance.png)
 
 The Customer Insights page highlights customer activity, such as average spend, top customers by revenue and geographical distribution. 
-[Customer Insights Dashboard](screenshots/dashboard_customer_insights.png)
+![Customer Insights Dashboard](screenshots/dashboard_customer_insights.png)
 
 Across the dashboard, filters and time-based sliders enable deeper exploration and allow users to focus on specific periods.
 
@@ -60,8 +60,8 @@ All tracks are priced between €0.99 and €1.99, which limits revenue per orde
 ### 📁Repository Structure
 The repository is structured as below:
 - **/dashboards**
-     - **dashboard.pdf:** Static version of the Power BI report (optional, for easier viewing) `dashboards/dashboard.pdf`
-     - **dashboard.pbix:** Interactive Power BI report file `dashboards/dashboard.pbix`
+     - **dashboard.pdf:** Static version of the Power BI report (optional, for easier viewing) [Download PDF](dashboards/dashboard.pdf)
+     - **dashboard.pbix:** Interactive Power BI report file [Download PBIX](dashboards/dashboard.pbix)
 - **/data_clean:** Cleaned CSV files
 - **/data_raw:** Raw CSV files before cleaning
 - **/screenshots:** Project summarised in images
