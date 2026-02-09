@@ -48,7 +48,7 @@ Across the dashboard, filters and time-based sliders enable deeper exploration a
 With only 59 customers in 5 years, increasing brand awareness is essential for long-term growth. Targeted marketing campaigns in top-performing markets, such as the USA and Canada, would attract new customers and accelerate growth.
 
 **2. Leverage strong customer retention to drive insight and customer growth**  
-Repeat purchasing behaviour is excellent, indicating customer satisfaction with the store’s products and services. Conducting a short customer survey would help to understand what drives retention and where improvements could be made. Introducing referral incentives to loyal customers could help to expand the customer base.
+Repeat purchasing behaviour is excellent, indicating customer satisfaction with the store’s products and services. Conducting a short customer survey could help identify the key factors driving retention, enabling the business to reinforce effective strategies. Introducing referral incentives to loyal customers could help to expand the customer base.
 
 **3. Target seasonal opportunities to stabilise revenue**  
 Revenue tends to decrease between September and December. Seasonal campaigns, promotions and limited discounts during this period would help boost sales and smooth out performance across the year.
